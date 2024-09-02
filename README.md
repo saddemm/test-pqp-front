@@ -28,3 +28,16 @@ Backed api get the information from the movie API and save data on our local dat
 - **Styling:** ![Alt text](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 - **API Integration:** Utilizes backend API for data retrieval.
 - ![Alt text](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white) for making API requests
+
+## Running the project
+
+Make sur you have node v18 or earlier
+
+1. Clone repository.
+2. Install dependencies
+   ```bash
+   npm install
+3. Start project
+   ```bash
+   npm start
+4. Enjoy :)

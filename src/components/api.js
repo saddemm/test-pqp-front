@@ -1,6 +1,11 @@
 import axios from "axios";
+import dotenv from "dotenv";
 
-const URLTest = "http://localhost:2525/api/moviess";
+// Charger les variables d'environnement depuis le fichier .env
+dotenv.config();
+
+// Récupérer l'URL à partir des variables d'environnement
+const URLTest = process.env.URL_TEST;
 
 export default async function getApi() {
   const data = await axios.get(`${URLTest}?pagination=false`);

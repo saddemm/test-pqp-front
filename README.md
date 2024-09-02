@@ -19,8 +19,7 @@ Backed api get the information from the movie API and save data on our local dat
 1. **Trending Movies:** Users can follow up best 20 trending movies nowadays.
 1. **Movie Search:** Users can search for movies by title, allowing for easy discovery of films they are interested in.
 1. **Movie Details:** The app provides detailed information about each movie, including its title, release year, genre, and an average score.
-1. **Cast:** Users can explore the actors involved in the making of each movie.
-1. **Reviews:** Users can check all the reviews lefting about movies.
+1. **REMOVE:** Users can remove films from backend
 
 ## Key Features and Technologies Used
 
